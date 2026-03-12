@@ -1,7 +1,7 @@
 # Basic site settings (edit these first)
 title: "Odhrans Portfolio" # Site title shown in the browser and header
 title_separator: "-"
-subtitle:"Heres my work"
+subtitle:
 masthead_title: "Odhrans Portfolio"
 description: "A simple portfolio starter for games students." # Short site summary
 name: "Odhran Duffy"
