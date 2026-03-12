@@ -1,5 +1,5 @@
 ---
-title: "Page Title"
+title: "Home"
 layout: splash
 permalink: /
 header:
@@ -12,9 +12,9 @@ header:
       target: "_blank"
 
 
-excerpt: "You can add text here."
+excerpt: "Game Designer"
 intro: 
-  - excerpt: 'You can also add text like this....'
+  - excerpt: 'Welcome to my portolio website, my portfolio contains my work showcasing different skills within game development '
 feature_row:
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 1"
