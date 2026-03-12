@@ -1,7 +1,7 @@
 ---
 title: "Will of the Wool"
 layout: single
-permalink: /projects/Will of the Wool/
+permalink: /projects/game-jam/
 sidebar:
   title: "Projects"
   nav:
