@@ -29,7 +29,7 @@ author:
 
   # Author links
   links:
-    - label: "" # Email link
+    - label: "odhran" # Email link
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website" # Website link
