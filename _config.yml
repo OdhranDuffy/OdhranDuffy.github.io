@@ -51,7 +51,7 @@ author:
 # Site Footer
 footer: # Site footer
   links: # Footer links
-    - label: "Twitter" # Twitter link
+    - label: "Youtube" # Twitter link
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
       target: "_blank"
