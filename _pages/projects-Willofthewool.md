@@ -1,5 +1,5 @@
 ---
-title: "Game Jam"
+title: "Will of the Wool"
 layout: single
 permalink: /projects/game-jam/
 sidebar:

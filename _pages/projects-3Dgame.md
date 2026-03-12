@@ -1,5 +1,5 @@
 ---
-title: "Capstone"
+title: "Semester 1 3D Game"
 layout: single
 permalink: /projects/capstone/
 sidebar:
