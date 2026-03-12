@@ -9,6 +9,8 @@ main:
         url: /projects/will of the Wool/
       - title: "3D Game"
         url: /projects/3DGame/
+      - title: "2D Game"
+        url: /projects/2DGame/
   - title: "Pages"
     url: /pages/
     children:
