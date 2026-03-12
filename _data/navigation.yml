@@ -24,10 +24,12 @@ main:
 
 # Sidebar menu for the Projects page
 projects:
-  - title: "Game Jam"
-    url: /projects/game-jam/
-  - title: "Capstone"
-    url: /projects/capstone/
+  - title: "Will of the Wool"
+    url: /projects/will of the Wool/
+  - title: "3D Game"
+    url: /projects/3DGame/
+  - title: "2D Game"
+    url: /projects/2DGame/
 
 # Sidebar menu for the Pages page
 pages:
