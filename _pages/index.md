@@ -18,11 +18,11 @@ intro:
 feature_row:
   - image_path: /assets/images/Will.png
     alt: "placeholder image 1"
-    title: "Will of the Will"
+    title: "Will of the Wool"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/placeholder.png
+  - image_path: /assets/images/3D Game.png
     alt: "placeholder image 2"
-    title: "Placeholder 2"
+    title: "3D Game"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
