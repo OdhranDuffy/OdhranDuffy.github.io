@@ -1,10 +1,10 @@
 # Basic site settings (edit these first)
 title: "Student Portfolio" # Site title shown in the browser and header
 title_separator: "-"
-subtitle: # site tagline that appears below site title in masthead
+subtitle:"Heres my work"# site tagline that appears below site title in masthead
 masthead_title: "Odhrans Portfolio"
 description: "A simple portfolio starter for games students." # Short site summary
-name: "Therese Charles"
+name: "Odhran Duffy"
 url: "https://OdhranDuffy.github.io" # Your GitHub Pages domain
 baseurl: "" # Repo name if site is in a project repo, blank for user/org site
 locale: "en-GB" # Language/region
