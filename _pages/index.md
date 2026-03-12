@@ -19,18 +19,18 @@ feature_row:
   - image_path: /assets/images/Will.png
     alt: "placeholder image 1"
     title: "Will of the Wool"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "This is the 2D group project that I have been apart of "
   - image_path: /assets/images/3D Game.png
     alt: "placeholder image 2"
     title: "3D Game"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "This is the 3D game I worked on during my first semester"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/2D.png
     alt: "placeholder image 4"
     title: "2D Game"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "This is the 2D game I worked on during my first semester"
 ---
 
 {% include feature_row id="intro" type="center" %}
