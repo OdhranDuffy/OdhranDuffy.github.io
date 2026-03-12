@@ -5,10 +5,10 @@ main:
   - title: "Projects"
     url: /projects/
     children:
-      - title: "Game Jam"
-        url: /projects/game-jam/
-      - title: "Capstone"
-        url: /projects/capstone/
+      - title: "Will of the Wool"
+        url: /projects/will of the Wool/
+      - title: "3D Game"
+        url: /projects/3DGame/
   - title: "Pages"
     url: /pages/
     children:
