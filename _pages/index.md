@@ -27,9 +27,9 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/placeholder.png
+  - image_path: /assets/images/2D.png
     alt: "placeholder image 4"
-    title: "Placeholder 3"
+    title: "2D Game"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
