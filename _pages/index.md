@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/placeholder.png
   actions:
     - label: "Download CV"
-      url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
+      url: "https://ulster-my.sharepoint.com/:w:/r/personal/duffy-o14_ulster_ac_uk/Documents/Odhran-Duffy-B01022363-CRE136.docx?d=w4423341f84c34caaa9f24a70d587e4f4&csf=1&web=1&e=PfPK8c"
       target: "_blank"
 
 
