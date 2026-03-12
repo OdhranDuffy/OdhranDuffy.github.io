@@ -16,9 +16,9 @@ excerpt: "Game Designer"
 intro: 
   - excerpt: 'Welcome to my portolio website, my portfolio contains my work showcasing different skills within game development '
 feature_row:
-  - image_path: /assets/images/placeholder.png
+  - image_path: /assets/images/Will.png
     alt: "placeholder image 1"
-    title: "Placeholder 1"
+    title: "Will of the Will"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 2"
