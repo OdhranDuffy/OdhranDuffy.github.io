@@ -6,7 +6,7 @@ sidebar:
   title: "Projects"
   nav:
     - projects
-![useful image]({{ https://odhranduffy.github.io/projects/will%20of%20the%20Wool/.url }}/assets/image/Will.png)
+
 
 
 ---
