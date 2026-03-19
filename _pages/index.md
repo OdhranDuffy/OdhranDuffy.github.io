@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/3D Game.png
+  overlay_image: /assets/images/Banner.gif
   actions:
     - label: "Download CV"
       url: "https://ulster-my.sharepoint.com/:w:/r/personal/duffy-o14_ulster_ac_uk/Documents/Odhran-Duffy-B01022363-CRE136.docx?d=w4423341f84c34caaa9f24a70d587e4f4&csf=1&web=1&e=PfPK8c"
