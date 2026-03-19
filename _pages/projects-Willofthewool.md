@@ -6,6 +6,7 @@ sidebar:
   title: "Projects"
   nav:
     - projects
+    - image_path: /assets/images/2D.png
 
 ---
-This is a project page that is a child of Projects. Take a look at `projects-game-jam.md`to how see the sidebar key displays the nested navigation. 
+This is a
