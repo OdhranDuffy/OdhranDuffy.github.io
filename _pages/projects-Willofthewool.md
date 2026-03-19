@@ -6,7 +6,8 @@ sidebar:
   title: "Projects"
   nav:
     - projects
-    - image_path: /assets/images/2D.png
+image_path: /assets/images/2D.pngs
 
 ---
 This is a
+---
