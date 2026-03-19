@@ -6,7 +6,7 @@ sidebar:
   title: "Projects"
   nav:
     - projects
-
+<img src="/assets/img/Will.png" alt="Will of the Wool" width="400">
 
 
 ---
