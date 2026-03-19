@@ -6,7 +6,7 @@ sidebar:
   title: "Projects"
   nav:
     - projects
-Logo: /assets/images/Will.png
+Image: /assets/images/Will.png
 
 ---
 This is a
