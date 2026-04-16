@@ -25,6 +25,7 @@ feature_row:
     excerpt: ""
 ---
 ---
+{% include feature_row %}
 <img src="/assets/images/Will.png" alt="Will of the Wool" width="300"> 
 
 This is the group project that was the focus of the second semester project, our game is a 2D platformer thats main mechanic is the ability to throw wool, their are mulitple types of the wool that the player can use to overcome challenges like puzzles, navigation and enemies.
@@ -43,4 +44,3 @@ Teamwork Skills
 Everyone had different main roles but everyone was working together efficently, changes were able to be implemented quickly as we were able to communicate together effectively using microsoft teams by sharing ideas or creating placeholder designs for future mechanics or screenshots and videos of similar ideas or bugs we may have caught during testing or issues with the code, the biggest challenge was utilising github and having to coordinate what everyone was working on and making sure we werent stepping over each others work we werent perfect but I now feel far more confident working in a group then I did before
 
 
-{% include feature_row %}
