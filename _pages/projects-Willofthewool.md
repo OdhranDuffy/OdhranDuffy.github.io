@@ -15,3 +15,7 @@ This is the group project that was the focus of the second semester project, our
 We began work on our project brainstorming idea for what we wanted do to, we used a miroboard to come up with our ideas,
 
 <img src="/assets/images/Sheepmiro.png" alt="Will of the Wool" width="600"> 
+
+Some of the Ideas I contributed to were the artstyle/level themes and some Game Design theory for the wool types and how they might interact or react to other mechanics.
+After are miro board and general game concept were complete we started to work on our GDD I was largely responsible for the level design and art and audio sections.
+
