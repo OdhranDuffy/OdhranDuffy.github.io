@@ -6,6 +6,7 @@ sidebar:
   title: "Projects"
   nav:
     - projects
+    - 
 feature_row:
   - image_path: /assets/images/Base.png
   - alt: "placeholder image 1"
