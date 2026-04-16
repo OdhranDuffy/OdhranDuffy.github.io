@@ -6,7 +6,7 @@ sidebar:
   title: "Projects"
   nav:
     - projects
-    - 
+  - 
 feature_row:
   - image_path: /assets/images/Base.png
   - alt: "placeholder image 1"
@@ -16,18 +16,15 @@ feature_row:
   - alt: "placeholder image 1"
     title: ""
     excerpt: ""
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: /assets/images/Base.png
   - alt: "placeholder image 1"
     title: ""
     excerpt: ""
 ---
 ---
-{% include feature_row %}
-<img src="/assets/images/Will.png" alt="Will of the Wool" width="300"> 
 
+<img src="/assets/images/Will.png" alt="Will of the Wool" width="300"> 
+{% include feature_row %}
 This is the group project that was the focus of the second semester project, our game is a 2D platformer thats main mechanic is the ability to throw wool, their are mulitple types of the wool that the player can use to overcome challenges like puzzles, navigation and enemies.
 
 We began work on our project brainstorming idea for what we wanted do to, we used a miroboard to come up with our ideas,
