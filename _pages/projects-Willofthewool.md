@@ -11,14 +11,14 @@ feature_row:
   - image_path: /assets/images/Base.png
   - alt: "placeholder image 1"
     title: ""
-    excerpt: " "
+    excerpt: ""
   - image_path: /assets/images/Base.png
   - alt: "placeholder image 1"
-    title: "Will of the Wool"
-    excerpt: " "
+    title: ""
+    excerpt: ""
   - image_path: /assets/images/Base.png
   - alt: "placeholder image 1"
-    title: "Will of the Wool"
+    title: ""
     excerpt: ""
 ---
 ---
