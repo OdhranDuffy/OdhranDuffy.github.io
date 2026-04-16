@@ -7,9 +7,18 @@ sidebar:
   nav:
     - projects
 feature_row:
-  - image_path: /assets/images/Will.png
-  - image_path: /assets/images/3D Game.png
-  - image_path: /assets/images/2D.png
+  - image_path: /assets/images/Base.png
+  - alt: "placeholder image 1"
+    title: ""
+    excerpt: " "
+  - image_path: /assets/images/Base.png
+  - alt: "placeholder image 1"
+    title: "Will of the Wool"
+    excerpt: " "
+  - image_path: /assets/images/Base.png
+  - alt: "placeholder image 1"
+    title: "Will of the Wool"
+    excerpt: ""
 ---
 ---
 <img src="/assets/images/Will.png" alt="Will of the Wool" width="300"> 
