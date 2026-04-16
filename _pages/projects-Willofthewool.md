@@ -16,6 +16,9 @@ feature_row:
   - alt: "placeholder image 1"
     title: ""
     excerpt: ""
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/Base.png
   - alt: "placeholder image 1"
     title: ""
