@@ -12,14 +12,11 @@ feature_row:
   - alt: "placeholder image 1"
     title: ""
     excerpt: ""
-  - image_path: /assets/images/Base.png
+  - image_path: /assets/images/gameshot.png
   - alt: "placeholder image 1"
     title: ""
     excerpt: ""
-  - image_path: /assets/images/Base.png
-  - alt: "placeholder image 1"
-    title: ""
-    excerpt: ""
+  
 ---
 ---
 <img src="/assets/images/Will.png" alt="Will of the Wool" width="300"> 
