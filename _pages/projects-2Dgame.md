@@ -22,5 +22,6 @@ feature_row:
 ---
 <img src="/assets/images/2D.png" alt="Will of the Wool" width="300"> 
 {% include feature_row %}
-This page is another project page that is nested within Projects.
+This is the 2D game I worked on during the first semester this was the first game I started working on and the first time I programmed in C#, I learned how to make pixel art and tilemaps in unity, the game is a simple 2D platformer.
 
+{% include video id="RcjuGvsJQR8?si=Eki1XU-KkcgFZsfj" provider="youtube" %}
